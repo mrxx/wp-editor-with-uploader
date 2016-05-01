@@ -14,9 +14,9 @@ A plugin that used tinymce and plupload to upload images in front editor
 
 == Screenshots ==
 
-![Image ](screen_shot.gif)
+![img](screen_shot.gif)
 
-![Image ](screen_shot_1.jpg)
+![img](screen_shot_1.jpg)
 
 
 
